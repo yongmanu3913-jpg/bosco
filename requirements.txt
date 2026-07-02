@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+statsmodels
+geopandas
+shapely
+pyproj
+libpysal
+esda
+mgwr
+matplotlib
+mapclassify
+jupyter
