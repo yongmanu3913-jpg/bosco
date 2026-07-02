@@ -1,0 +1,28 @@
+# Raw and restricted data
+data/raw/*
+data/private/*
+data/processed/*
+
+# Keep empty folders
+!data/raw/.gitkeep
+!data/private/.gitkeep
+!data/processed/.gitkeep
+
+# Restricted data formats
+*.dta
+*.sav
+*.shp
+*.dbf
+*.shx
+*.gpkg
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
