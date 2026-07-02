@@ -87,10 +87,10 @@ pip install -r requirements.txt
 
 ## Roadmap
 
-- [ ] Add public-data preprocessing scripts
-- [ ] Add synthetic sample dataset
-- [ ] Add spatial autocorrelation example
-- [ ] Add MGWR workflow documentation
+- [X] Add public-data preprocessing scripts
+- [X] Add synthetic sample dataset
+- [X] Add spatial autocorrelation example
+- [X] Add MGWR workflow documentation
 - [ ] Add figure and table reproduction scripts
 
 ## Limitations
