@@ -4,7 +4,6 @@
 
 This repository contains research code and documentation for analyzing spatial association patterns between depression prevalence and neighborhood environmental characteristics at the administrative-dong level in Seoul, South Korea.
 
-본 저장소는 박사학위논문 「서울시 행정동별 우울증 유병률과 근린환경 특성의 연관구조 분석」을 기반으로 한 연구 코드 및 재현성 문서화 저장소입니다.
 
 ## Project Overview
 
