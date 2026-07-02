@@ -98,7 +98,3 @@ pip install -r requirements.txt
 The estimated depression prevalence is based on treatment and prescription records, not direct observation at the administrative-dong level. Therefore, the results should be interpreted as regional-level associations rather than causal effects.
 
 This repository does not provide restricted health-insurance data or personally identifiable information.
-
-## Citation
-
-Jang, Y. J. (2026). *An Analysis of Association Patterns between Depression Prevalence and Neighborhood Environmental Characteristics at the Administrative Dongs in Seoul*. Doctoral dissertation draft.
