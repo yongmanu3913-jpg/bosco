@@ -53,6 +53,21 @@ bosco/
 │   └── tables/
 └── docs/             # Documentation and research notes
 
+## Why This Project Matters
+
+This repository provides a reproducible research workflow for studying spatial inequalities in treatment-based depression prevalence and neighborhood environmental characteristics in Seoul.
+
+## How to Use
+
+1. Review the project workflow in `docs/`.
+2. Check the variable definitions in `docs/data_dictionary.md`.
+3. Run the example scripts using sample or synthetic data.
+4. Reproduce spatial analysis outputs where permitted by data restrictions.
+
+## Installation
+
+```bash
+pip install -r requirements.txt
 
 ## Planned Contents
 - Data preprocessing scripts
